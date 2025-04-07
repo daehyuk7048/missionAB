@@ -3,10 +3,12 @@
 https://youtu.be/T79BvZd81Uo?si=fxpGCJ9Lhbaq_SQX
 ---
 ![image](https://github.com/user-attachments/assets/dd6dd92b-f924-4d8d-b930-7614081aa978)
+
 led는 18,19,20 을 이용하였습니다.
 led를 초기화 시키기 위해 for 구문을 이용하여 led 모두를 초기화 시켰습니다.
 
 ![image](https://github.com/user-attachments/assets/2e870d08-bcc5-4c1c-92d1-b335385718c8)
+
 무한루프를 위해 while을 사용했습니다.
 bin이란 변수에는 i의 값을 2진수로 표현하여 세자리수를 넣게 하였습니다.
 ex) i가 6이라면 bin에는 110
